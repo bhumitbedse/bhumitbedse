@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Bhumit+Bedse%27s+GitHub+Profile)](https://git.io/typing-svg)
 
 ### About me!
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="300">
 
 ```python
 class Bhumit:
