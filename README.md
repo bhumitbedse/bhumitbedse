@@ -1,9 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Bhumit Bedse !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Bhumit+Bedse%27s+GitHub+Profile)](https://git.io/typing-svg)
 
-### About me!
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="250">
-
+### About Me!!
 ```python
 class Bhumit:
     def __init__(self):
@@ -18,10 +16,10 @@ class Bhumit:
        
 me = Bhumit()
 ```
+<div align='center'>
+<img align="center" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="250">
+</div>
 
-
-
----
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
