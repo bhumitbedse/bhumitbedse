@@ -1,7 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Bhumit Bedse !
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Bhumit+Bedse%27s+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=30&multiline=false&width=700&lines=Welcome+To+Bhumit+Bedse's+Github+Profile;I%27m+Machine%20+Learning+Devloper;I%27m+Competitive+Programmer)](https://git.io/typing-svg)
 
-### About Me!!
+## About Me!!
 ```python
 class Bhumit:
     def __init__(self):
@@ -39,20 +39,44 @@ me = Bhumit()
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)">
 </p>
+<br>
 
----
 
-<!--
-**bhumitbedse/bhumitbedse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumitbedse&theme=gruvbox" alt="Bhumit" /></p>
+<br>
 
-Here are some ideas to get you started:
+## 📊 Github Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img align='left' alt="Bhumit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhumitbedse&show_icons=true&count_private=true&theme=gruvbox" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumitbedse&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Bhumit" height="150px"/>
+  <br/>
+  </p>
+  <br>
+  
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="Bhumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhumitbedse&custom_title=Bhumit%27s%20Contribution%20Graph&theme=gruvbox" /></a>
+  <br>
+  <br>
+  <hr>
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="mailto:bhumitbedse40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/mwlite/in/bhumit-bedse-a049081a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/Bhumit12/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a>
+<br>
+</p>
+<br>
+<hr>
+<br>
