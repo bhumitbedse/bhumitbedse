@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Bhumit Bedse !
+# Hi there <img width="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Bhumit Bedse !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F77222&size=30&multiline=false&width=700&lines=Welcome+To+Bhumit+Bedse's+Github+Profile;I%27m+Machine%20+Learning+Devloper;I%27m+Competitive+Programmer)](https://git.io/typing-svg)
 
 ## About Me!!
